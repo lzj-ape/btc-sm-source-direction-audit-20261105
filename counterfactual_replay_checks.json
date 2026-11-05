@@ -1,0 +1,281 @@
+[
+  {
+    "source": "new",
+    "time": "2026-05-05T02:50:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": false,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-05-05T11:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": false,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-05-06T06:50:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-05-06T15:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-05-07T15:40:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": false,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-05-08T13:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": false,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-05-09T02:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-05-09T15:30:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-05-10T16:45:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-05-12T04:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-05-14T16:50:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-05-16T16:20:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-06-08T14:15:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-06-22T22:40:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": false,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-06-23T15:20:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-06-24T05:45:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-06-25T09:15:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-06-25T12:45:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-07-03T20:50:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-07-13T13:45:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-07-13T21:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-07-21T14:15:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-07-21T15:25:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-07-22T14:20:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-08-03T12:15:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-08-03T15:30:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-08-04T14:20:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-08-05T15:00:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-08-05T16:35:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "new",
+    "time": "2026-08-06T15:15:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  },
+  {
+    "source": "old",
+    "time": "2026-08-07T10:00:00",
+    "new_input": 0,
+    "position": 0.0,
+    "entry": false,
+    "entry_suppressed": true,
+    "campaign_suppressed": true
+  }
+]

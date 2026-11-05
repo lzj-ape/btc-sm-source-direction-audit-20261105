@@ -1,0 +1,18 @@
+{
+  "new": {
+    "qualified": 729,
+    "entries": 36,
+    "campaigns": 72
+  },
+  "new_original_replay_max_position_error": 0.0,
+  "old": {
+    "qualified": 409,
+    "entries": 46,
+    "campaigns": 70
+  },
+  "same_MA_opposite_qualified_impossible": true,
+  "common_days": 98,
+  "full_calendar_bars": 29088,
+  "engine_path": "/home/lezijian/SM_append_fix/experiments/btc_sm_optimize_20261030/engine.py",
+  "engine_sha256": "7725fc83df53e0cea95465646302ac4b72b12b4b3fc71f42f3662475740c25be"
+}

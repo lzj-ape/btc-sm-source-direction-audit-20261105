@@ -1,0 +1,10 @@
+{
+  "before_ms": 1778166138426,
+  "after_ms": 1778169514232,
+  "before_utc": "2026-05-07 15:02:18.426000",
+  "after_utc": "2026-05-07 15:58:34.232000",
+  "empty_seconds": 3375.806,
+  "file": "/mnt/nas/public/2026-05-07/HLP_DWELLIR_CSV_FILL/HLP_2026-05-07__HLP_DWELLIR_CSV_FILL.parquet",
+  "all_market_rows": 9966500,
+  "scope": "No fill timestamp between these adjacent observed timestamps in the primary daily file; neighboring primary daily files bound outside this interval. Collector root cause not established."
+}

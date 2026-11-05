@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "cases": 46,
+  "episodes": 8,
+  "hours": 60,
+  "original_witness_money_error": 0,
+  "counterfactual_entry_causal_accounts": 42,
+  "counterfactual_entry_causal_orders": 41,
+  "case_link_time_order": "PASS",
+  "source_gap_disclosed": true,
+  "all_order_IDs_strings": true
+}

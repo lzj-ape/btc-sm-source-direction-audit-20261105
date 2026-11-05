@@ -1,0 +1,46 @@
+{
+  "task": "NAS Dwellir vs explicitly authorized old HLP processed historical BTC source-direction attribution",
+  "authorization": "User explicitly selected NAS Dwellir main source vs old HLP processed, and requested public publication.",
+  "window_utc": [
+    "2026-05-01",
+    "2026-08-10"
+  ],
+  "end_exclusive": true,
+  "calendar_days": 101,
+  "readable_source_days": 98,
+  "missing_dates": [
+    "2026-06-05",
+    "2026-06-06",
+    "2026-06-07"
+  ],
+  "missing_policy": "No new directive on either side during missing old source buckets; existing campaigns exit on normal common market rules; no fallback.",
+  "source_time": "native fill bucket b; decision b+15minutes; new node availability filtered before aggregation",
+  "execution_rules": "frozen common engine, one continuous campaign, previous-bar MA20/60, >=3 dominant users, no-pct shadow, 24h, 4% trailing stop",
+  "attribution": "Delete current-bucket account or entire OID; fixed pool/Q75/price/prehistory; re-run engine when qualified input changes at a campaign start.",
+  "causality_scope": "program input necessity only, not production fills or market-price causality",
+  "case_selection": "All 8 opposing entries, both campaigns origins, recursive blocking predecessors, all entries with opposite flow, top10 flow dollar examples; 46 unique windows",
+  "source_bundle": "Source swap includes its historical preprocessing; does not identify a vendor-only effect.",
+  "main_metrics": {
+    "source_days": 98,
+    "calendar_days": 101,
+    "compared_bars": 28221,
+    "opposite_flow_bars": 1474,
+    "opposite_qualified_bars": 0,
+    "opposing_position_episodes": 8,
+    "opposing_position_hours": 60.0,
+    "opposing_entries": 8,
+    "cases_count": 46,
+    "new_entries": 36,
+    "old_entries": 46,
+    "missing_source_dates": [
+      "2026-06-05",
+      "2026-06-06",
+      "2026-06-07"
+    ],
+    "pivotal_accounts": 55,
+    "pivotal_orders": 69,
+    "entry_causal_accounts": 42,
+    "entry_causal_orders": 41
+  },
+  "engine": "7725fc83df53e0cea95465646302ac4b72b12b4b3fc71f42f3662475740c25be"
+}
